@@ -1,6 +1,6 @@
 ### Hi there 👋 
 My name is Evi 
-- 🌱 I am a software engineer who used to play with graphs, math models and computer networks
+- 🌱 I am a software engineer who studied computer science and used to play with graphs, math models and computer networks
 - 🔭 I’m currently working as a software engineer in test with the help of Playwright framework and Typescript
 - 🤔 I particularly enjoy experimenting with different frameworks and setting up testing systems 
 - 👯 I’m volunteering in WeTest, a Greek conference about software testing
