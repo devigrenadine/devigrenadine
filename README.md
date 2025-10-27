@@ -1,12 +1,13 @@
 ### Hi there 👋 
 My name is Evi 
-- 🌱 I am a software engineer who studied computer science and used to play with graphs, math models and computer networks
+- 🌱 I am a software engineer who studied computer science and used to play with graphs, math models and computer networks  
 - 🔭 I’m currently working as a software engineer in test with the help of Playwright framework and Typescript
+- ☕  Used to be a Java lover. Still am, just with more tests.
 - 🤔 I particularly enjoy experimenting with different frameworks and setting up testing systems 
 - 👯 I’m volunteering in WeTest, a Greek conference about software testing
 - 🌱 I am currently interested in learning more on the devops side of QA
 - 💬 Ask me about different levels of testing, testing ecosystem and frameworks, techniques and best practices
-- 📫 You can find me on linkedin:/evgenia-noutsi/ or send me an email  at noutshe at gmail.com
+- 📫 Reach me on on linkedin:/evgenia-noutsi/ or at noutshe at gmail.com
 
 
 <!--
